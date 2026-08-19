@@ -6,6 +6,7 @@
 
 - `index.html`：首页
 - `members.html`：导师简介
+- `team.html`：组内成员
 - `research.html`：科研成果
 - `moments.html`：团队风貌
 - `admissions.html`：招生信息
@@ -33,6 +34,7 @@ python -m http.server 8000
 ```text
 index.html
 members.html
+team.html
 research.html
 moments.html
 admissions.html
@@ -46,7 +48,7 @@ assets/
 ## 待补充资料
 
 1. 确认课题组正式中英文名称。
-2. 后续如需增加学生信息，可重新添加成员页面。
+2. 继续补充本科生成员照片与个人简介。
 3. 在 `moments.html` 中继续补充课题组活动照片。
 4. 核对招生名额、办公室地址和完整论文列表。
 
